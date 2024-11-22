@@ -1,6 +1,10 @@
 
+
 Initial content
 
 
 modified example.txt in branch1 
+
+
+modified example.txt in branch2
 
