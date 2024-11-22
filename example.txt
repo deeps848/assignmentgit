@@ -1,3 +1,6 @@
+
 Initial content
-changes being made in branch1
-Changes being made in branch2
+
+
+modified example.txt in branch1 
+
